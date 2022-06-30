@@ -2,7 +2,7 @@
 
 Rust Snake is a game for my rust practice.
 
-![Rust Snake Screen Shot](images/rust-snake.png#pic_center width=50% )
+![Rust Snake Screen Shot](images/rust-snake.png#pic_center)
 
 ## Getting Started
 
@@ -17,7 +17,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository
 
 ```sh
-git clone https://
+git clone https://github.com/fivewillow/rust-snake.git
 ```
 
 ### Usage
